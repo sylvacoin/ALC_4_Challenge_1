@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="meet_the_developer">Meet the developer</string>
+    <string name="profilephoto">ProfilePhoto</string>
+    <string name="name">Name</string>
+    <string name="sylvester_hillary">Sylvester Hillary</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email">Email : hclinton007@gmail.com</string>
+    <string name="phone_number">Phone Number: 08166897526</string>
+    <string name="slack_username">Slack Username: @larryberry</string>
+    <string name="track">Track: Android</string>
+    <string name="andelaURL">https://andela.com/alc/</string>
+</resources>
